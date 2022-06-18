@@ -1,0 +1,15 @@
+/home/mp/helloWold/bin/Debug/net6.0/helloWold
+/home/mp/helloWold/bin/Debug/net6.0/helloWold.deps.json
+/home/mp/helloWold/bin/Debug/net6.0/helloWold.runtimeconfig.json
+/home/mp/helloWold/bin/Debug/net6.0/helloWold.dll
+/home/mp/helloWold/bin/Debug/net6.0/helloWold.pdb
+/home/mp/helloWold/obj/Debug/net6.0/helloWold.csproj.AssemblyReference.cache
+/home/mp/helloWold/obj/Debug/net6.0/helloWold.GeneratedMSBuildEditorConfig.editorconfig
+/home/mp/helloWold/obj/Debug/net6.0/helloWold.AssemblyInfoInputs.cache
+/home/mp/helloWold/obj/Debug/net6.0/helloWold.AssemblyInfo.cs
+/home/mp/helloWold/obj/Debug/net6.0/helloWold.csproj.CoreCompileInputs.cache
+/home/mp/helloWold/obj/Debug/net6.0/helloWold.dll
+/home/mp/helloWold/obj/Debug/net6.0/refint/helloWold.dll
+/home/mp/helloWold/obj/Debug/net6.0/helloWold.pdb
+/home/mp/helloWold/obj/Debug/net6.0/helloWold.genruntimeconfig.cache
+/home/mp/helloWold/obj/Debug/net6.0/ref/helloWold.dll

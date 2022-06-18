@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace HelloWold
+{
+    public class Hello
+    {
+        public static void Main(string[] arg)
+        {
+            Console.WriteLine(arg[0]);
+        }
+    }
+
+}
